@@ -19,4 +19,5 @@ Exemplo do cálculo para alíquota progressiva: um trabalhador que ganha R$ 5.44
 2. Média de um valor: 
 3. Conversor de temperatuda ºC para F: Converte uma temperatura de Celsius para Fahrenheit;
 4. Atividade avaliativa da Semana 3: implementar o código para o fluxograma abaixo:
+
 ![Fluxograma](COM100_Aval_Sem3.png)
