@@ -21,3 +21,11 @@ Exemplo do cálculo para alíquota progressiva: um trabalhador que ganha R$ 5.44
 4. Atividade avaliativa da Semana 3: implementar o código para o fluxograma abaixo:
 
 ![Fluxograma](COM100_Aval_Sem3.png)
+
+### R
+
+Linguagem R é uma das mais utilizadas para cálculos estatísticos.
+
+5. Função para calcular a quantidade mínima de movimentos para _Torre de Hanoi_ com _N_ discos.
+
+![Torre de Hanoi](TorreHanoi.jpg)
